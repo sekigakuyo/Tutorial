@@ -4,3 +4,4 @@ Goodby something bad.
 hello
 
 Add the explanation for "pull"
+and "Compete"
